@@ -1,4 +1,3 @@
-
 ANALYSIS_RESULTS = {
     "issues": [
         {
@@ -18,10 +17,10 @@ ANALYSIS_RESULTS = {
             "bg": "#e8f8f5"
         }
     ],
-    "confidence": 87,
+    "confidence": 90,
     "recommendations": [
         "Apply nitrogen-rich fertilizer",
         "Maintain consistent watering schedule",
-        "Monitor over next 7 days"
+        "Monitor over next 10 days"
     ]
 }
